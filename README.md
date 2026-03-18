@@ -1,2 +1,3 @@
-# SignGlove_S2
-센서 기반 수화 통역 장갑 제작기 확장
+# Drive_VLM_tuned
+DriveVLM 논문 기반 튜닝기  
+SerbotII 사용

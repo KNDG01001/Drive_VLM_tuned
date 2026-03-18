@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model artifacts (GitHub 100MB limit)
+pop/model/trtpose/resnet18_baseline_att_224x224_A_epoch_249_trt.pth
+pop/model/yolov4-tiny/yolov4-tiny.onnx
+pop/model/yolov4-tiny/yolov4-tiny.weights
